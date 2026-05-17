@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the associated manuscript."
+title: "Finite-Temperature Spin Exchange-Correlation Kernel of the Uniform Electron Gas: Data Release"
+authors:
+  - family-names: Hou
+    given-names: Pengcheng
+  - family-names: Li
+    given-names: Zhiyi
+  - family-names: Deng
+    given-names: Youjin
+  - family-names: Chen
+    given-names: Kun
+year: 2026
+license: CC0-1.0

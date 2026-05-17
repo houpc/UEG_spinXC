@@ -1,0 +1,14 @@
+{
+  "title": "Finite-Temperature Spin Exchange-Correlation Kernel of the Uniform Electron Gas: Data Release",
+  "creators": [
+    "Pengcheng Hou",
+    "Zhiyi Li",
+    "Youjin Deng",
+    "Kun Chen"
+  ],
+  "year": 2026,
+  "license": "CC0-1.0",
+  "description": "VDMC spin exchange-correlation kernel data for the three-dimensional uniform electron gas at finite temperature.",
+  "related_publication": "Finite-Temperature Spin Exchange-Correlation Kernel of the Uniform Electron Gas",
+  "archive_doi": "to be inserted after Zenodo/Figshare deposition"
+}
