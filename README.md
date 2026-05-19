@@ -3,7 +3,7 @@
 Variational diagrammatic Monte Carlo data generated for **"Finite-Temperature Spin Exchange-Correlation
 Kernel of the Uniform Electron Gas"** by Hou, Li, Deng, and Chen (2026).
 
-Associated manuscript: arXiv:XXXX.XXXXX.
+Associated manuscript: arXiv:2605.16888.
 
 ## Conventions
 
@@ -50,8 +50,7 @@ momentum, screening scale `lambda`, and expansion order `order_N`.
 If you use this dataset, please cite:
 
 Hou, P., Li, Z., Deng, Y., and Chen, K. *Finite-Temperature Spin
-Exchange-Correlation Kernel of the Uniform Electron Gas*, arXiv:XXXX.XXXXX
-(2026).
+Exchange-Correlation Kernel of the Uniform Electron Gas*, arXiv:2605.16888 (2026).
 
 ## License
 
